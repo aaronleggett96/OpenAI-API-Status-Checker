@@ -26,7 +26,7 @@ Make sure you have the following software installed on your system:
 
 ```bash
 git clone https://github.com/aaronleggett96/openai-api-status-checker.git
-cd openai-api-status
+cd openai-api-status-checker
 ```
 2. Create a virtual environment and activate it:
 
