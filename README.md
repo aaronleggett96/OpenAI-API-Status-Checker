@@ -98,4 +98,4 @@ http://localhost:8000/docs
 ### License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
 
-Fun Fact: I wrote virtually zero of this code, I just got annoyed when I saw someone trying to charge $10pm on Twitter. Thanks, GPT-4!
+#### Fun Fact: I wrote virtually zero of this code, I just got annoyed when I saw someone trying to charge $10pm for it on Twitter. Thanks, GPT-4!
