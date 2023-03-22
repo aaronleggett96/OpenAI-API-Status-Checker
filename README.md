@@ -25,7 +25,7 @@ Make sure you have the following software installed on your system:
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/aaronleggett96/openai-api-status.git
+git clone https://github.com/aaronleggett96/openai-api-status-checker.git
 cd openai-api-status
 ```
 2. Create a virtual environment and activate it:
@@ -93,7 +93,9 @@ Additionally, FastAPI comes with SwaggerUI out-of-the-box. You can access this v
 http://localhost:8000/docs
 ```
 
-![FastAPI SwaggerUI for openai-api-status](https://media.cleanshot.cloud/media/59316/23j7hbs1ReeS2SVNj4Y0Qep1mfIPX7h72NURLTln.jpeg?Expires=1679476539&Signature=RSd1~Nf4ZxGRQ5CjFUz5OQO8j1zy0I0RYldKzlZfLwMar3AS03BVmaKitq2y6hRQbDYhJCIMDHkInyBxWraLpgskkBLfW~0WYjj~zHXIKMi~s~Abl2~B4ZRZKyY0AWh3qynw6wj8pPE4HNua7x~qzfv7F8qMAB2ksWTh-dkCVeO69-skMRRU1Ff-b6F0GO0SfNolpBoq-JUTD~f-WhYKWFysx8pEckaPW3nTwUvtqIRRAM~wdmY1qwhGEtQgBuWrknQ6yso7Qgo0Lu4dzgRxFlac~qbG8pM75FznmBDjf6XyMT2mbG7qyPqJqBHo3R12LnFR4pVhOxsSZb2gXPyBWw__&Key-Pair-Id=K269JMAT9ZF4GZ)
+![FastAPI SwaggerUI](SwaggerUI_Example.png)
 
 ### License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
+
+Fun Fact: I wrote virtually zero of this code, I just got annoyed when I saw someone trying to charge $10pm on Twitter. Thanks, GPT-4!
